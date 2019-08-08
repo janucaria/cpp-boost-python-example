@@ -1,0 +1,3 @@
+[submodule "externs/boost"]
+	path = externs/boost
+	url = https://github.com/boostorg/boost
